@@ -1,0 +1,51 @@
+div{
+    background-color: white;
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 25%;
+    height: 400px;
+    border: 2px solid white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+
+}
+img{
+    margin: 2%;
+    width: 95%;
+    height:40%;
+    border-radius: 30px;
+}
+p{
+    color: #883AE1;
+    margin-right: 40px;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+b{
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.description{
+    color: #E2E8EE;
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+hr{
+    color : #E2E8EE;
+    border-width: 0.01px;
+}
+
+#autora{
+    color: #E2E8EE;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
