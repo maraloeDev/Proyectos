@@ -15,7 +15,10 @@ img{
     height:40%;
     border-radius: 30px;
 }
-p{
+#Desing{
+    background-color: #E6D6FC;
+    width: 20%;
+    border-radius: 30px;
     color: #883AE1;
     margin-right: 40px;
     font-family: "Sora", sans-serif;
